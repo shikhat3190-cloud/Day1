@@ -3,6 +3,9 @@
 ## Working with google colab
 
 #### Step1: Open colab.google.com
+Install libraries:
+!pip install openai==1.40.0 google-generativeai==0.8.5 httpx==0.27.2
+
 #### Step2: Get your api key to call LLM (gemini and openai)
 
 #### Gemini api key
