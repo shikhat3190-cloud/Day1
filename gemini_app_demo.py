@@ -23,3 +23,8 @@ for m in genai.list_models():
         print(f"  Model Name: {m.name}, Supported Methods: {m.supported_generation_methods}")
 
 
+gemini_model = genai.GenerativeModel("gemini-2.0-flash-lite-001")
+
+gemini_resp = gemini_model.generate_content("Say hello in a friendly way.")
+
+print("Gemini Flash:", gemini_resp.text)
