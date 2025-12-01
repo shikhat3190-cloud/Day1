@@ -20,3 +20,7 @@ Download and install Pycharm -> https://www.jetbrains.com/pycharm/download
 
 
 
+
+
+
+<img width="2532" height="1008" alt="image" src="https://github.com/user-attachments/assets/5a867c29-c1f6-4a09-a324-3f5d36640a60" />
